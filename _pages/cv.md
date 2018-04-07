@@ -20,16 +20,14 @@ Employment
 ======
 * 2015-present: Associate Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto
 * 2014-present: Associate Chair, Undergraduate Studies in Statistics, Department of Statistical Sciences, University of Toronto
+* 2006-15: Senior Lecturer, Department of Statistical Sciences, University of Toronto
+* 2002-06: Lecturer, Department of Statistical Sciences, University of Toronto
 * 2001-02: Assistant Professor, Department of Mathematics and Statistics, York University
 * 2000-01: Postdoctoral Fellow, Department of Mathematics and Statistics, York University
 
 
-Awards
+[Awards](awards)
 =====
-* 3M National Teaching Fellowship, 2018
-* President's Teaching Award, University of Toronto, 2016
-* Outstanding Teaching Award, Faculty of Arts and Science, University of Toronto, 2012
-* NSERC Postdoctoral Fellowship, 2000
 
 
 Publications

@@ -6,7 +6,7 @@ redirect_from:
   - /resume
 ---
 
-Where no link is given, course materials are on the University of Toronto learning management engine.
+Where no link to a course is provided, course materials are on the University of Toronto learning management engine.
 
 ## 2017-18
 

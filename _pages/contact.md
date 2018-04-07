@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### For inquiries about statistics courses and programs of study:
+## For inquiries about statistics courses and programs of study:
 
 **Email:** ugchair.stats AT utstat.utoronto.ca
 
@@ -20,10 +20,9 @@ Tuesday April 3, 10, 24 11:10-13:00
 
 **Office:** SS 6009
 
-### Contact information for other purposes:
+## Contact information for other purposes:
 
 **Email:** alison.gibbs AT utoronto.ca
-
 
 Department of Statistical Sciences  
 University of Toronto  
@@ -31,4 +30,3 @@ University of Toronto
 Toronto, Ontario M5S 3G3  
 Canada
 
-**Office:** SS 6009
