@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Where no link is given, course materials are on the University of Toronto learning management engine.
 
-{% include base_path %}
+## 2017-18
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* STA490Y1: Statistical Consultation, Communication, and Collaboration
+* [STA130H1: An Introduction to Statistical Reasoning and Data Science](http://www.sta130.utstat.utoronto.ca)
+
