@@ -42,7 +42,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching(/teaching)
+[Teaching](/teaching)
 ======
   
 Recent projects
