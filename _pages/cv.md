@@ -26,7 +26,7 @@ Employment
 * 2000-01: Postdoctoral Fellow, Department of Mathematics and Statistics, York University
 
 
-[Awards](awards)
+[Awards](/awards)
 =====
 
 
