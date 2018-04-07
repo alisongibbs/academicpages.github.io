@@ -14,7 +14,7 @@ Education
 * B.Math. in Applied Mathematics, University of Waterloo, 1988
 * B.Ed. University of Western Ontario, 1989
 * M.Sc. in Statistics, University of Toronto, 1993
-* Ph.D in  Statistics, University of Toronto, 2000
+* Ph.D. in  Statistics, University of Toronto, 2000
 
 Employment
 ======

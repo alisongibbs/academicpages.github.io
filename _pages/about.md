@@ -16,4 +16,4 @@ I was awarded the [Faculty of Arts and Science Outstanding Teaching Award](http:
 
 - [International Data Science in Schools Project](http://www.idssp.org)
 - [Census at School Canada](http://censusatschool.ca)
-- [Introduction to Statistics Ideas and Methods](http://stats.onlinelearning.utoronto.ca)
+- [Introduction to Statistical Ideas and Methods](http://stats.onlinelearning.utoronto.ca)

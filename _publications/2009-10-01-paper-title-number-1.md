@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Introducing Secondary School Students to Big Data and its Social Impact: A Study within an Innovative Learning Environment"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2016a
+excerpt: ''
+date: 2016
+venue: 'Proceedings of the Ninth International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-9)'
+paperurl: 'https://iase-web.org/documents/papers/rt2016/Gil.pdf'
+citation: 'E. Gil and A.L. Gibbs (2016). &quot;Introducing Secondary School Students to Big Data and its Social Impact: A Study within an Innovative Learning Environment.&quot; <i>Proceedings of the Ninth International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-9)</i>, Paderborn, Germany: University of Paderborn, pp. 46-55.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://iase-web.org/documents/papers/rt2016/Gil.pdf)
+
+Recommended citation: E. Gil and A.L. Gibbs (2016). &quot;Introducing Secondary School Students to Big Data and its Social Impact: A Study within an Innovative Learning Environment.&quot; <i>Proceedings of the Ninth International Research Forum on Statistical Reasoning, Thinking, and Literacy (SRTL-9)</i>, Paderborn, Germany: University of Paderborn, pp. 46-55.
