@@ -14,7 +14,7 @@ description              : &description "Associate Professor, Teaching Stream"
 url                      : https://alisongibbs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/alisongibbs/alisongibbs.github.io"
-teaser                   : "alison_1.2crop.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "/images/alison_1.2crop.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Alison L Gibbs"
-  avatar           : "images/alison_1.2crop.jpg"
+  avatar           : "/images/alison_1.2crop.jpg"
   bio              : "Associate Professor, Teaching Stream"
   location         : "Statistical Sciences"
   employer         : "University of Toronto"
@@ -175,9 +175,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -221,15 +218,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
@@ -249,7 +237,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
