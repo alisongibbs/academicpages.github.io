@@ -9,3 +9,5 @@ location: "State College, Pennsylvania"
 ---
 
 With Nathan Taback.  This [poster](http://utstat.utoronto.ca/alisong/Talks/USCOTS2017posterGibbsTaback.pdf) reports on the results of a randomized encouragement study of the effect of weekly emails in an introductory statistics course, taught in both inverted classroom and fully online formats.
+
+[USCOTS 2017](https://www.causeweb.org/cause/uscots/uscots17/)
