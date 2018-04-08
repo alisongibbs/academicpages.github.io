@@ -30,7 +30,7 @@ Employment
 =====
 
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -44,6 +44,7 @@ Talks
   
 [Teaching](/teaching)
 ======
+See my [teaching page](/teaching).
   
 Recent projects
 ======
