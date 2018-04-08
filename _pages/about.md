@@ -10,7 +10,7 @@ author_profile: yes
 
 I am an Associate Professor, Teaching Stream and the Associate Chair for Undergraduate Studies in Statistics in the [Department of Statistical Sciences](http://utstat.toronto.edu) at the [University of Toronto](https://www.utoronto.ca).
 
-I am engaged in the teaching and learning of Statistics and Data Science at all levels, from primary through graduate school.  I am engaged in various projects related to data science in schools, online learning, inverted classrooms, curriculum development, developing adaptive expertise, and the development of professional identity. 
+I am interested in the teaching and learning of Statistics and Data Science at all levels, from primary through graduate school.  I am engaged in various projects related to data science in schools, online learning, inverted classrooms, statistics curriculum development, achieving adaptive expertise, and the development of professional identity. 
 
 ### Some Recent Projects:
 
