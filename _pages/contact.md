@@ -13,10 +13,16 @@ redirect_from:
 
 **Office hours:**
 
-Office hours in April 2018:   
-Tuesday April 3, 10, 24 11:10-13:00 
+Office hours May through August 2018:   
+Usually I will have office hours on Tuesdays 10am to noon in SS 6009 
 
-*Note:* Office hours are cancelled on April 17. There is also a chance I may need to move the time of the office hours on April 24. Updates will be posted here. Office hours in May will be posted soon.
+There are **no office hours** the following Tuesdays (I'll be away):  
+June 5   
+June 19  
+July 10  
+July 17  
+
+Updates will be posted here.
 
 **Office:** SS 6009
 
