@@ -8,6 +8,10 @@ redirect_from:
 
 Where no link to a course is provided, course materials are on the University of Toronto learning management engine.
 
+## 2018-19
+
+* STA490Y1: Statistical Consultation, Communication, and Collaboration
+
 ## 2017-18
 
 * STA490Y1: Statistical Consultation, Communication, and Collaboration
