@@ -16,17 +16,18 @@ redirect_from:
 Office hours May through August 2018:   
 Usually I will have office hours on Tuesdays 10am to noon in SS 6009 
 
-There are **no office hours** the following Tuesdays (I'll be away):  
-June 5   
-June 19  
-July 10  
-July 17  
+Office hours starting September 2018:
+Wednesdays 11am to 1pm
+
+Office hours are cancelled on:
+Wednesday November 7
+Wednesday February 20
 
 Updates will be posted here.
 
 **Office:** SS 6009
 
-## Contact information for other purposes:
+## Contact information for other purposes (not for inquiries about statistics courses and programs of study):
 
 **Email:** alison.gibbs AT utoronto.ca
 
