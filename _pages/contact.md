@@ -19,8 +19,8 @@ Usually I will have office hours on Tuesdays 10am to noon in SS 6009
 Office hours starting September 2018:
 Wednesdays 11am to 1pm
 
-Office hours are cancelled on:
-Wednesday November 7
+Office hours are cancelled on:  
+Wednesday November 7  
 Wednesday February 20
 
 Updates will be posted here.
