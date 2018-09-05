@@ -13,10 +13,7 @@ redirect_from:
 
 **Office hours:**
 
-Office hours May through August 2018:   
-Usually I will have office hours on Tuesdays 10am to noon in SS 6009 
-
-Office hours starting September 2018:
+Office hours starting September 2018 through March 2019:
 Wednesdays 11am to 1pm
 
 Office hours are cancelled on:  
