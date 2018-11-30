@@ -19,7 +19,7 @@ Education
 Employment
 ======
 
-* 2018-present: Professor, Teaching Stream, Department of Statistical Sciences, University of Toront
+* 2018-present: Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto
 * 2015-18: Associate Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto
 * 2014-present: Associate Chair, Undergraduate Studies in Statistics, Department of Statistical Sciences, University of Toronto
 * 2006-15: Senior Lecturer, Department of Statistical Sciences, University of Toronto
