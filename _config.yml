@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alison L Gibbs"
 title_separator          : "-"
 name                     : &name "Alison L Gibbs"
-description              : &description "Associate Professor, Teaching Stream"
+description              : &description "Professor, Teaching Stream"
 url                      : https://alisongibbs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/alisongibbs/alisongibbs.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Alison L Gibbs"
   avatar           : "alison_1.2crop.jpg"
-  bio              : "Associate Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto"
+  bio              : "Professor, Teaching Stream, Department of Statistical Sciences, University of Toronto"
   location         : "Toronto, ON"
   employer         : 
   googlescholar    : https://scholar.google.ca/citations?user=L8bdkCkAAAAJ&hl=en
