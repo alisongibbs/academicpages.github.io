@@ -17,7 +17,7 @@ Office hours starting September 2018 through March 2019:
 Wednesdays 11am to 1pm
 
 Office hours are cancelled on:  
-Wednesday February 20
+Wednesday February 20  
 Wednesday March 20
 
 Updates will be posted here.
