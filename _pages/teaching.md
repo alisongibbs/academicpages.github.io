@@ -1,9 +1,8 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
-redirect_from:
-  - /resume
+redirect_from: /resume
+author_profile: yes
 ---
 
 Where no link to a course is provided, course materials are on the University of Toronto learning management engine.
@@ -44,7 +43,7 @@ On leave
 
 * STA2453H1: Statistical Consulting
 * [STA302H1 / 1001H1: Methods of Data Analysis I](http://www.utstat.utoronto.ca/alisong/Teaching/1112/Sta302/sta302.html)
-* [STA303H1 / 1002H1: Methods of Data Analysis II](http://www.utstat.utoronto.ca/alisong/Teaching/1112/Sta302/sta302.html)
+* [STA303H1 / 1002H1: Methods of Data Analysis II](http://www.utstat.utoronto.ca/alisong/Teaching/1112/Sta303/sta303.html)
 * STA248H1: Statistics for Computer Scientists
 * STA257H1: Probability and Statistics I
 * SCI199Y1: First-year seminar
