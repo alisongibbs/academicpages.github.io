@@ -13,12 +13,15 @@ redirect_from:
 
 **Office hours:**
 
-Office hours starting September 2018 through March 2019:
+Office hours April 2019:  
 Wednesdays 11am to 1pm
 
-Exceptions:  
-* On Wednesday, March 6 office hours will start at 11:20am
-* Office hours are cancelled on:  Wednesday March 20
+Office hours May - June 2019:  
+Thursdays 10am to noon
+
+Office hours are cancelled on the following dates:  
+- Thursday May 30  
+- Thursday June 13  
 
 Updates will be posted here.
 
