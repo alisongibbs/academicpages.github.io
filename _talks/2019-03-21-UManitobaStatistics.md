@@ -8,7 +8,7 @@ date: 2019-03-21
 location: "Winnipeg, Manitoba"
 ---
 
-Some thoughts on teaching Statistics in the era of Data Science, including the process of developing an undergraduate curriculum designed for this context and the structure of the resulting program of study.  Illustration of the progression of students? acquisition of the knowledge, skills and attitudes that we want our graduating students to have is provided with examples from a first course in statistical reasoning and data science and from a capstone course in statistical practice.
+Some thoughts on teaching Statistics in the era of Data Science, including the process of developing an undergraduate curriculum designed for this context and the structure of the resulting program of study.  Illustration of the progression of students' acquisition of the knowledge, skills and attitudes that we want our graduating students to have is provided with examples from a first course in statistical reasoning and data science and from a capstone course in statistical practice.
 
 [Slides (pdf)](http://utstat.utoronto.ca/alisong/Talks/Gibbs_ManitobaStatistics21march2019_nobuilds.pdf)
 
