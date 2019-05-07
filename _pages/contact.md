@@ -13,9 +13,6 @@ redirect_from:
 
 **Office hours:**
 
-Office hours April 2019:  
-Wednesdays 11am to 1pm
-
 Office hours May - June 2019:  
 Thursdays 10am to noon
 
