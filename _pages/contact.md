@@ -22,6 +22,7 @@ Thursdays 10am to noon
 Office hours are cancelled on the following dates:  
 - Thursday May 30  
 - Thursday June 13  
+- Thursday June 27  
 
 Updates will be posted here.
 
