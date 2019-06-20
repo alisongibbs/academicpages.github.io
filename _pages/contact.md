@@ -7,25 +7,19 @@ redirect_from:
   - /resume
 ---
 
+
+
 ## For inquiries about statistics courses and programs of study:
 
-**Email:** ugchair.stats AT utstat.utoronto.ca
+**Please note:** Effective 1 July 2019, I am no longer the Associate Chair for Undergraduate Studies in Statistics.  Use the email below to ensure that your inquiries are directed to the appropriate person
 
-**Office hours:**
+**General inquiries about statistics courses and programs of study:** ug.statistics AT utstat.utoronto.ca
 
-Office hours May - June 2019:  
-Thursdays 10am to noon
+**Associate Chair, Undergraduate Studies in Statistics:** ugchair.stats AT utstat.utoronto.ca
 
-Office hours are cancelled on the following dates:  
-- Thursday May 30  
-- Thursday June 13  
-- Thursday June 27  
 
-Updates will be posted here.
 
-**Office:** SS 6009
-
-## Contact information for other purposes (not for inquiries about statistics courses and programs of study):
+## Contact information for other purposes:
 
 **Email:** alison.gibbs AT utoronto.ca
 
