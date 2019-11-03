@@ -1,7 +1,7 @@
 ---
 title: "Navigating Whitewater: Preparing our Students for Unknown Challenges"
 collection: talks
-type: "Talk"
+type: "Randolph Lecture"
 permalink: /talks/2019-11-02-MAASeaway
 venue: "MAA Seaway Section Meeting"
 date: 2019-11-02
