@@ -7,6 +7,11 @@ author_profile: yes
 
 Where no link to a course is provided, course materials are on the University of Toronto learning management engine.
 
+## 2019-20
+
+* STA490Y1: Statistical Consultation, Communication, and Collaboration  
+* STA238H1: Probability, Statistics and Data Analysis II ([Supplementary Materials](https://awstringer1.github.io/sta238-book/))
+
 ## 2018-19
 
 * STA490Y1: Statistical Consultation, Communication, and Collaboration
