@@ -2,7 +2,7 @@
 title: "2018-19"
 collection: teaching
 type: "Teaching"
-permalink: /teaching/2018-18-teaching
+permalink: /teaching/2018-19-teaching
 venue: "University of Toronto, Department of Statistical Sciences"
 date: 2018-09-01
 location: "Toronto, Canada"
