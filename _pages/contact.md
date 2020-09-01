@@ -14,8 +14,8 @@ redirect_from:
 **For inquiries about the Centre for Teaching Support and Innovation:**   
 ctsi.teaching AT utoronto.ca
 
-Centre for Teaching Support and Innovation  
-University of Toronto  
+[Centre for Teaching Support and Innovation](https://teaching.utoronto.ca)    
+[University of Toronto](https://www.utoronto.ca)    
 130 St George St  
 Robarts Library, 4th Floor  
 Toronto, ON  M5S 3H1  
@@ -25,8 +25,8 @@ Toronto, ON  M5S 3H1
 **For inquiries about statistics courses and programs of study:**   
 ug.statistics AT utstat.utoronto.ca
 
-Department of Statistical Sciences  
-University of Toronto  
+[Department of Statistical Sciences](https://www.statistics.utoronto.ca)    
+[University of Toronto](https://www.utoronto.ca)    
 700 University Avenue, Suite 9005  
 Ontario Power Building  
 Toronto, ON  M5G 1X6  
