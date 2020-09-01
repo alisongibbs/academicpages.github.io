@@ -8,24 +8,25 @@ redirect_from:
 ---
 
 
-
-## For inquiries about statistics courses and programs of study:
-
-**Please note:** Effective 1 July 2019, I am no longer the Associate Chair for Undergraduate Studies in Statistics.  Use the email below to ensure that your inquiries are directed to the appropriate person
-
-**General inquiries about statistics courses and programs of study:** ug.statistics AT utstat.utoronto.ca
-
-**Associate Chair, Undergraduate Studies in Statistics:** ugchair.stats AT utstat.utoronto.ca
+## Centre for Teaching Support and Innovation
 
 
+**For inquiries about the Centre for Teaching Support and Innovation:** ctsi.teaching AT utoronto.ca
 
-## Contact information for other purposes:
+Centre for Teaching Support and Innovation  
+University of Toronto  
+130 St George St  
+Robarts Library, 4th Floor  
+Toronto, ON  M5S 3H1  
 
-**Email:** alison.gibbs AT utoronto.ca
+## Department of Statistical Sciences:
+
+**For inquiries about statistics courses and programs of study:** ug.statistics AT utstat.utoronto.ca
 
 Department of Statistical Sciences  
 University of Toronto  
-100 St George St  
-Toronto, Ontario M5S 3G3  
-Canada
+700 University Avenue, Suite 9005  
+Ontario Power Building  
+Toronto, ON  M5G 1X6  
 
+**Direct inquiries:** alison.gibbs AT utoronto.ca
