@@ -8,10 +8,11 @@ redirect_from:
 ---
 
 
-## Centre for Teaching Support and Innovation
+## Centre for Teaching Support and Innovation:
 
 
-**For inquiries about the Centre for Teaching Support and Innovation:** ctsi.teaching AT utoronto.ca
+**For inquiries about the Centre for Teaching Support and Innovation:**   
+ctsi.teaching AT utoronto.ca
 
 Centre for Teaching Support and Innovation  
 University of Toronto  
@@ -21,7 +22,8 @@ Toronto, ON  M5S 3H1
 
 ## Department of Statistical Sciences:
 
-**For inquiries about statistics courses and programs of study:** ug.statistics AT utstat.utoronto.ca
+**For inquiries about statistics courses and programs of study:**   
+ug.statistics AT utstat.utoronto.ca
 
 Department of Statistical Sciences  
 University of Toronto  
